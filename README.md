@@ -39,8 +39,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harsh-android&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
