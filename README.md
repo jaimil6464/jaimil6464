@@ -35,3 +35,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimil6464&" alt="jaimil6464" /></p>
 
+![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harsh_android&layout=compact&theme=synthwave&v=2)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harsh-android&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+
+---
+
