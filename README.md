@@ -29,14 +29,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimil6464&show_icons=true&locale=en&layout=compact" alt="jaimil6464" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimil6464&show_icons=true&locale=en" alt="jaimil6464" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimil6464&" alt="jaimil6464" /></p>
-
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harsh_android&layout=compact&theme=synthwave&v=2)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harsh-android&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
