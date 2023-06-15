@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm jaimil Parmar</h1>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p><h1 align="center">Hi 👋, I'm jaimil Parmar</h1>
 <h3 align="center">Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimil6464&label=Profile%20views&color=0e75b6&style=flat" alt="jaimil6464" /> </p>
