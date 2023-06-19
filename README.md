@@ -43,6 +43,9 @@
 
 
 ## 🐍 A Snake Eating my Contributions Graph
+
+[![](https://visitcount.itsvg.in/api?id=kevin-monapara89&icon=6&color=10)](https://visitcount.itsvg.in)
+
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
